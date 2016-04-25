@@ -1,7 +1,13 @@
 package Outlab6;
 
 import java.util.*;
-
+/**
+ * Battleship.java used for ship generation, board placement, and detecting the game is over.
+ * 
+ *
+ * @author Daniel Laden
+ * @version 04-26-2016
+ */
 public class Battleship {
 	
 	int [][] rowColSize;
