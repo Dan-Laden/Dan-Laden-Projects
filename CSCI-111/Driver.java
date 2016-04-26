@@ -7,7 +7,7 @@ public class Driver
 {
     public static void main (String [] args)
     {
-        Battleship game = new Battleship(5, 4);        //play on a board with 5 rows and 7 columns
+        Battleship game = new Battleship(5, 7);        //play on a board with 5 rows and 7 columns
 
         System.out.println("Battleship!");
         System.out.println("-----------\n");
