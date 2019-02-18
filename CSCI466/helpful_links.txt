@@ -1,0 +1,8 @@
+Libs being used:
+  http.client https://docs.python.org/3/library/http.client.html
+  http.server https://docs.python.org/3/library/http.server.html#http.server.BaseHTTPRequestHandler
+  sys https://docs.python.org/3/library/sys.html
+  http.responses and requests https://docs.python.org/3/library/http.client.html?highlight=http%20client#http.client.HTTPResponse
+
+This code below is used as a resource for us to understand what was going on in a http.client and http.server interaction. The code was only view slightly and never copied.
+CLient and Server example: https://www.junian.net/2014/07/simple-http-server-and-client-in-python.html
