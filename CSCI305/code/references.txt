@@ -1,0 +1,19 @@
+These following sites were used purely as reference in creation of this solution.
+
+
+    Sites:
+    http://ruby-doc.com/docs/ProgrammingRuby/
+    https://ruby-doc.org/core-2.2.0/Regexp.html
+    https://www.tutorialspoint.com/ruby
+    and various look ups for syntax differences for ruby on
+    https://stackoverflow.com
+
+ML
+
+    Sites:
+    http://cs.fit.edu/~ryan/sml/intro.html
+    http://www.smlnj.org/doc/errors.html
+    https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/sml-intro.pdf
+    http://www.cs.cmu.edu/afs/cs/local/sml/common/smlguide/smlnj.htm
+    https://stackoverflow.com/questions/818324/loops-in-sml-nj
+    https://courses.cs.vt.edu/~cs3304/Spring02/lectures/lect04.pdf

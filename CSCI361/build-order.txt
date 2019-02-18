@@ -1,0 +1,24 @@
+$ arm-linux-gnueabi-as -o [file].o [file].s
+
+$ arm-linux-gnueabi-ld -o [file]/[desired-name] [file].o
+
+$ file [file]/[desired-name]
+
+$ ./[file]/[desired-name]
+
+Any other help on how to do this refer to the following site: https://ubuntuforums.org/showthread.php?t=2010979
+
+ARMv8 Packages:
+qemu-user-static
+qemu-user
+qemu
+binfmt*
+
+Commands in GDB:
+list <tag> -- lists first ten lines at that tag
+disassemble <tag> -- shows breakdown of the compiled assembly
+b <line number> -- sets a breakpoint
+delete <line number> -- removes a breakpoint
+run -- runs the compiled program until it hits a breakpoint
+info r -- returns current register values
+continue -- continues program execution to next breakpoint

@@ -1,0 +1,10 @@
+2.add one to each element in the list
+3.If there is an empty list it returns an empty list catches nil lists
+4. Takes the first element of the list x and adds one then recursively calls the next element using f xs (xs being the rest of the list till it is nil)
+6. Tail-recursion
+8. The easiest thing to say about this is tail-recursion is what's used by most compilers so the compiler is optimized to read tail recursion better than general
+11. Forced Recursion is good to learn how to recurse functions better
+12. Making the thing run, SML gave me an error at every point it possibly could and it was mindnummingly stupid to me
+13. Fuck this language dude, I didn't enjoy this at all and it made me had functional langauges as a whole I hope other functional langauges are better than this experience in everyway. If there is a good nice and happy functional language PLEASE let me know I want to know and appriciate these guys
+14. I don't know 20-40 probably
+15. H-e-double tooth picks no. I would go great lengths to never use ML again. 
