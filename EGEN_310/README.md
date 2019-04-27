@@ -1,5 +1,5 @@
 # Multidisplinary Engineering
-This project was to make a rc car that used bluetooth to control the car from a PC
+This project was to make a rc car that used bluetooth to control the car from a PC. With this project I worked with a Mechanical Engineer, a Chemical Engineer, and a Electric Engineer to design a car that could go through an obsticle course. In this multidisplinary setting my main objectives were coding both the pc and microcontroller and helping each disiple test their respected tasks.
 
 ### production
 This is the code that goes into the final product
